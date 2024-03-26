@@ -56,9 +56,11 @@
   :fire: My Stats :
   <p> </p>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=unnathi%20shetty&theme=youtube-dark" alt="GitHub Streak" /></a>
-  <a href="https://github.com/unnathishetty">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+  <<div>
+    <a href="https://github.com/unnathishetty">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unnathishetty&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
     </a>
+  </div>
 
 </div>
 
