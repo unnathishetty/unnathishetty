@@ -23,12 +23,12 @@
 </div>
 
 <div>
-  ### :woman_technologist: About Me :
+  :woman_technologist: About Me :
   I am a final year Computer Science Engineering student, passionate about technology and innovation.  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
- - 🔭 I’m currently working on DSA and Front End development.
- - 🌱 I’m currently learning React JS.
-  - 💬 Ask me about HTML CSS
-  - ⚡ I'm a passionate Dancer
-  - 📫 How to reach me : unnathishetty29@gmail.com 
+   <li> 🔭 I’m currently working on DSA and Front End development.</li>
+  <li>🌱 I’m currently learning React JS.</li>
+  <li>💬 Ask me about HTML CSS</li>
+  <li>⚡ I'm a passionate Dancer</li>
+  <li>📫 How to reach me : unnathishetty29@gmail.com </li>
 </div>
 
