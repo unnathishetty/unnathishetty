@@ -1,4 +1,7 @@
-### Hey 👋 ! I'm Unnathi Shetty
+<div align="center">
+    <h3>Hey 👋 ! I'm Unnathi Shetty</h3>
+</div>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdoM3Y1NHlodmw1bXB2N28wcmxlaDRoa2ViaXFiYTNubm0xejlyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eg4q8ka6zQuQ2qgKwe/giphy.gif" width="200"/>
 </div>
