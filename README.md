@@ -1,7 +1,7 @@
 ### Hey 👋 ! I'm Unnathi Shetty
 
 <div align="center">
-  <iframe src="https://giphy.com/embed/eg4q8ka6zQuQ2qgKwe" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/css-html-indonesiasiapkerja-eg4q8ka6zQuQ2qgKwe">via GIPHY</a></p>
+  <p><a href="https://giphy.com/stickers/css-html-indonesiasiapkerja-eg4q8ka6zQuQ2qgKwe">via GIPHY</a></p>
     <h2>🚀 About Me</h2>
     <p>I'm a final year Computer Science Engineering student, passionate about technology and innovation.</p>
     <p>🔍 Currently, I am exploring opportunities to apply my skills and knowledge in real-world scenarios, whether through internships, research projects, or         industry collaborations.</p>
