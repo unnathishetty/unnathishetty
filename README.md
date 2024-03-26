@@ -64,3 +64,7 @@
 
 </div>
 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/unnathishetty/unnathishetty/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+</div>
+
