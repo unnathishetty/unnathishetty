@@ -55,6 +55,6 @@
 <div>
   :fire: My Stats :
   <p> </p>
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=unnathi%20shetty&theme=youtube-dark)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=unnathi%20shetty&theme=youtube-dark" alt="GitHub Streak" /></a>
 </div>
 
