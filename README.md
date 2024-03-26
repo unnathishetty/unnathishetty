@@ -1,9 +1,7 @@
 ### Hey 👋 ! I'm Unnathi Shetty
 
 <div align="center">
-  <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+
   
     <h2>🚀 About Me</h2>
     <p>I'm a final year Computer Science Engineering student, passionate about technology and innovation.</p>
