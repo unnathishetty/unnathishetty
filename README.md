@@ -1,10 +1,10 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+[Your Name];This+is..;..my+Github..;" alt="Typing SVG"/>
-</p>
+### Hey 👋 ! I'm Unnathi Shetty
 
 <div align="center">
+  <iframe src="https://giphy.com/embed/eg4q8ka6zQuQ2qgKwe" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/css-html-indonesiasiapkerja-eg4q8ka6zQuQ2qgKwe">via GIPHY</a></p>
     <h2>🚀 About Me</h2>
-    <p>I'm a [Your Job Title] specializing in [Your Specialization]. I enjoy [hobbies/interests].</p>
+    <p>I'm a final year Computer Science Engineering student, passionate about technology and innovation.</p>
+    <p>🔍 Currently, I am exploring opportunities to apply my skills and knowledge in real-world scenarios, whether through internships, research projects, or         industry collaborations.</p>
 </div>
 
 
