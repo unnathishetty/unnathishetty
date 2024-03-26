@@ -25,6 +25,7 @@
 <div>
   :woman_technologist: About Me :
   I am a final year Computer Science Engineering student, passionate about technology and innovation.  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
+  <hr>
    <li> 🔭 I’m currently working on DSA and Front End development.</li>
   <li>🌱 I’m currently learning React JS.</li>
   <li>💬 Ask me about HTML CSS</li>
