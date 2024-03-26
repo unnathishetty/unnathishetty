@@ -1,6 +1,3 @@
-<div align="center">
-    <h3>Hey 👋 ! I'm Unnathi Shetty</h3>
-</div>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdoM3Y1NHlodmw1bXB2N28wcmxlaDRoa2ViaXFiYTNubm0xejlyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eg4q8ka6zQuQ2qgKwe/giphy.gif" width="200"/>
@@ -20,7 +17,13 @@
 </div>
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=unnathishetty&style=flat-square&color=blue" alt=""/>
+    <h1>
+  Hey!I'm Unnathi Shetty
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 </div>
+
+
 
 
 <!--
