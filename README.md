@@ -1,6 +1,5 @@
-
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdoM3Y1NHlodmw1bXB2N28wcmxlaDRoa2ViaXFiYTNubm0xejlyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eg4q8ka6zQuQ2qgKwe/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdoM3Y1NHlodmw1bXB2N28wcmxlaDRoa2ViaXFiYTNubm0xejlyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eg4q8ka6zQuQ2qgKwe/giphy.gif" width="350"/>
 </div>
 
 <div id="badges" align="center">
@@ -18,25 +17,18 @@
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=unnathishetty&style=flat-square&color=blue" alt=""/>
     <h1>
-  Hey!I'm Unnathi Shetty
+  Hey ! I'm Unnathi Shetty
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
 
+<div>
+  ### :woman_technologist: About Me :
+  I am a final year Computer Science Engineering student, passionate about technology and innovation.  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
+ - 🔭 I’m currently working on DSA and Front End development.
+ - 🌱 I’m currently learning React JS.
+  - 💬 Ask me about HTML CSS
+  - ⚡ I'm a passionate Dancer
+  - 📫 How to reach me : unnathishetty29@gmail.com 
+</div>
 
-
-
-<!--
-**unnathishetty/unnathishetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
