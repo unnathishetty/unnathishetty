@@ -1,7 +1,7 @@
 ### Hey 👋 ! I'm Unnathi Shetty
-
-<img src="Y2lkPTc5MGI3NjExNzdoM3Y1NHlodmw1bXB2N28wcmxlaDRoa2ViaXFiYTNubm0xejlyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw"/>
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdoM3Y1NHlodmw1bXB2N28wcmxlaDRoa2ViaXFiYTNubm0xejlyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eg4q8ka6zQuQ2qgKwe/giphy.gif" width="100"/>
+</div>
 
 <!--
 **unnathishetty/unnathishetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
