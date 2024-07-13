@@ -24,10 +24,10 @@
 
 <div>
   :woman_technologist: About Me :
-  <p>I am a final year Computer Science Engineering student, passionate about technology and innovation.  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .</p>
+  <p>I am a Computer Science Engineering graduate, passionate about technology and innovation.  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .</p>
   
-   <li> 🔭 I’m currently working on DSA and Front End development.</li>
-  <li>🌱 I’m currently learning React JS.</li>
+  <li> 🔭 I’m currently working on DSA with C++.</li>
+  <li>🌱 I’m currently learning Java.</li>
   <li>💬 Ask me about HTML CSS</li>
   <li>⚡ I'm a passionate Dancer</li>
   <li>📫 How to reach me : unnathishetty29@gmail.com </li>
